@@ -21,7 +21,7 @@ Example
 
 Reference
 ---
-[강집사링크](https://www.naver.com,"사실 네이버")
+[강집사링크](https://www.naver.com, "사실 네이버")
 
 Issue
 ---
